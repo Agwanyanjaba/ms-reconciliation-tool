@@ -1,0 +1,9 @@
+Type,Record Identifier,Field,Source Value,Target Value
+Missing in Target,,003,,
+Missing in Source,,004,,
+Missing in Source,,006,,
+Missing in Source,,005,,
+Field Discrepancy,002,Date,2023-01-02,2023-01-04
+Field Discrepancy,007,Name,"""Robert Brow""","""Roberto Briow"""
+Field Discrepancy,007,Date,2023-01-01,2024-01-01
+Field Discrepancy,007,Amount,30.7550,301.7550
